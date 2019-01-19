@@ -1,0 +1,13 @@
+{
+  "name": "00-Motivations",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "author": "CamKirk",
+  "scripts":{
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
