@@ -4,10 +4,11 @@
   "main": "main.js",
   "license": "MIT",
   "author": "CamKirk",
-  "scripts":{
+  "scripts": {
     "test": "jest"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^23.6.0"
   }
 }
