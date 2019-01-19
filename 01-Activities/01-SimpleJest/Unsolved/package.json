@@ -1,0 +1,12 @@
+{
+  "name": "01-SimpleJest",
+  "version": "1.0.0",
+  "main": "spinner.js",
+  "license": "MIT",
+  "scripts":{
+    "test":"jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
